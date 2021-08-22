@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+#topbar{
+    background-color:white;
+    width:100%;
+    height:77px;
+    cursor: pointer;
+}
+a:hover {
+    text-decoration: underline red;
+        
+}
+.menu-items{
+    position: relative;
+    margin-left: 130px;
+    top:-25px;
+}
+#but-topbar{
+    margin-left: 160px;
+    background-color: #FFD8DB;
+    color: #A389CC;
+    padding: 15px 30px;
+    border-radius: 15px ;
+    border: 1px solid #FFD8DB;
+    position: relative;
+    top:-25px;
+    font-size: 20px;
+}
+#container{
+    display:flex;
+    justify-content: center;
+}
+.heading-text{
+    font-size: 64px;
+}
+#landing-section{
+    width: 600px;
+}
+.para-text{
+    font-size: 15px;
+    margin-top: -300px;
+    margin-left: 190px;
+    color:  rgb(134, 125, 125);
+}
+#but{
+    margin-left: 190px;
+    background-color: #5243C0;
+    color: #ffffff;
+    border: 1px solid #5243C0;
+    padding: 15px 30px;
+    border-radius: 15px ;
+}
+#lisit-items{
+    display: flex; 
+    margin-left: 190px;
+    margin-top: 20px;
+}
+.text{
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.text1{
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.but1{
+  border: 1px solid #FED7DA;
+  border-radius: 12px;
+  padding:2px 5px ;
+}
+.down-image{
+   margin-left: 15px;
+   margin-bottom: -25px;
+}
+#table-data{
+    width:25%;
+    margin-left: 220px;
+    margin-top: 55px;
+    font-size: 12px;
+}
+.grey-text{
+    color:  rgb(221, 216, 216);
+}
+tr:hover {
+    background-color:whitesmoke;
+}
+.but1{
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color:#FED7DA;
+   border: #FED7DA;
+}
+.but2{
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color:#FD6534;
+    border: #FD6534;
+}
+.but3{
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color:#9ED095;
+    border:#9ED095 ;
+}
+.but4{
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color:#FFE4A0;
+    border:#FFE4A0 ;
+}
+
+
+
+
+
+
+   
+    
+
+
+
